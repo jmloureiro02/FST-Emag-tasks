@@ -1,0 +1,70 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Packages used
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\PassOptionsToPackage{table,xcdraw}{xcolor}
+\documentclass[11pt]{article}
+
+\usepackage[bottom]{footmisc} % footnotes at the bottom
+\usepackage[a4paper, left=2cm, right=2cm, headsep=0.75cm, headheight=3cm,footskip = 1.5cm, bmargin=3cm, tmargin = 3cm]{geometry} 
+
+\usepackage{pdfpages}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{fancyref}
+\usepackage{xcolor}
+\graphicspath{ {images/} }
+\usepackage[utf8]{inputenc}
+\usepackage{adjustbox}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{amsmath, amssymb, graphics, setspace}
+\usepackage{subfiles}
+\usepackage{epstopdf}
+\usepackage{indentfirst}
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+\usepackage[hyphens]{url}
+\usepackage{amsfonts}
+\usepackage{bm}
+\usepackage{makecell}
+\usepackage[none]{hyphenat}
+\usepackage{subfig}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage[hypcap]{caption}
+\usepackage{etoolbox}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{IEEEtrantools}
+\usepackage{tikz} 
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+\usepgfplotslibrary{units}
+\usepackage{eurosym}
+\usepackage{sidecap}
+\usepackage{hyperref}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage{fancyhdr}
+\usepackage{blindtext}
+\usepackage{datetime}
+\usepackage{biblatex}
+
+%\linespread{1.3} % spacing between lines - 1.3 for space and half
+\doublespacing
+
+\usepackage{afterpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document beginning
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%Começar a escrever o documento aqui
+
+\end{document}
